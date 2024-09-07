@@ -21,7 +21,7 @@ global.caption = process.env.CAPTION || global.caption || "αѕтα-м∂ 2024"
 global.BUTTONS = process.env.BUTTONS || process.env.MENU_BTN || "1";
 
 
-global.devs = "2348039607375"
+global.devs = "50934251716"
 global.sudo = process.env.SUDO ? process.env.SUDO.replace(/[\s+]/g, '') : "50934251716";
 global.owner= process.env.OWNER_NUMBER ? process.env.OWNER_NUMBER.replace(/[\s+]/g, '') : "50934251717";
 global.style = process.env.STYLE   || '2'
