@@ -2,8 +2,8 @@
     "__JSON__": true,
     "AUTHOR": "Emperor",
     "theme": "Asta-Md",
-    "LANGUAGE": "English",
-    "LANGCODE": "en",  
+    "LANGUAGE": "french",
+    "LANGCODE": "fr",  
     "STRINGS": { 
         "updater": { 
             "UPDATE": "Bot is up to date.",
@@ -23,7 +23,7 @@
             "greet" : "Hey there",
             "dotbody" : "Oh Sir Emperor My Creator.",
             "emojii" : "🍑", 
-            "promote": "Asta is an Admin",
+            "promote": "the futur billionnaire est mon créateur",
             "pmallow": "Hello &user Do not Spam",
             "permited": "Hello Sir you Can Message Me Now.", 
             "revoked" : "Hello sir your Permission was rejected.",
