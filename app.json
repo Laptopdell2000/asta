@@ -24,7 +24,7 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "asta-botto"
+      "value": "billionnaire bot"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -64,12 +64,12 @@
     "WAPRESENCE": {
       "description": "Fill the value: 'unavailable'(for nothing) | 'available'(for alwaysonline) | 'composing'(for typing) | 'recording' | 'paused' ",
       "required": false,
-      "value": "unavailable"
+      "value": "composing"
     },
     "AUTO_READ_STATUS": {
       "description": "Fill the value true if you want bot view your Statuses.",
       "required": false,
-      "value": "false"
+      "value": "true"
     },
     "MSGS_IN_LOG": {
       "description": "Fill the value -true- if you want to see Messages in logs.",
@@ -92,7 +92,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "2347041620617"
+      "value": "50934251716"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here. note do not clear anything here",
